@@ -60,5 +60,4 @@ POST http://localhost:8000/query
 Disclaimer
 
 This project is a proof-of-concept created for casestudy evaluation.
-It focuses on system design, retrieval quality, and safety rather than
-production-scale deployment.
+It focuses on system design, retrieval quality, and safety rather than production-scale deployment.
